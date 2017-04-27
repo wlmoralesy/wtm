@@ -1,0 +1,10 @@
+{
+  "VENUE_LATITUDE": "10.3059899",
+  "VENUE_LONGITUDE": "123.8933275",
+  "GOOGLE_MAPS_CONFIG": {
+    "maptype": "roadmap",
+    "size": "1024x200",
+    "zoom": 16,
+    "scale": 2
+  }
+}

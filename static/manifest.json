@@ -1,0 +1,16 @@
+{
+  "name": "Women TechMakers 2017",
+  "short_name": "wtm17",
+  "icons": [
+    {
+      "src": "/static/images/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "theme_color": "#2ec6a1",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "orientation": "portrait",
+  "display": "standalone"
+}

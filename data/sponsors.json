@@ -1,0 +1,19 @@
+[{
+  "name": "General Sponsor",
+  "sponsors": [{
+    "name": "Google",
+    "image": "/static/images/sponsors/google.svg",
+    "link": "https://www.google.com.ua/intl/en/about/"
+  }]
+}, {
+  "name": "Special thanks to",
+  "sponsors": [{
+    "name": "Payoneer",
+    "image": "/static/images/sponsors/payoneer.png",
+    "link": "https://www.payoneer.com/ph/"
+  }, {
+    "name": "Symph",
+    "image": "/static/images/sponsors/symph.png",
+    "link": "http://www.sym.ph/"
+  }]
+}]

@@ -1,0 +1,31 @@
+[{
+  "name": "Rochel Abrasaldo",
+  "position": "Director of Product",
+  "company": "PhotoUp",
+  "bio": "She is the current Director of Product at PhotoUp, an industry leading photo editing solution for real estate photographers. She oversees the successful design, development, and deployment of all product offerings of their company.",
+  "image": "/static/images/speakers/rochel-abrasaldo.png"
+}, {
+  "name": "Sheryl Satorre",
+  "position": "Teacher",
+  "company": "University of Cebu-Main",
+  "bio": "Sheryl works as a college teacher for more than 14 years. Currently, she is teaching Technopreneurship and Database System at the University of Cebu-Main. She has mentored more than 30 startup-based Capstone Projects of the same university. She serves as a faculty-mentor for various startup competitions and boot camps like, Philippine Startup Challenge, Smart SWEEP Excellence and Innovation Award, Startup Weekend, and Cebu Launchpad.<br><br>As a strong believer of startups as catalyst for change, Sheryl wrote her PhD dissertation entitled, \"Cebu City Technology Startup Ecosystem\", which assessed the vibrancy of the local startup key players and produced the Cebu City Startup Ecosystem Canvas.<br><br>On a lighter note, Sheryl is an OBTL practitioner. She is a tattoo collector, and an advocate of life's best things such as afternoon naps, brewed coffee, good books and hip-hop music.",
+  "image": "/static/images/speakers/sheryl-satorre.png"
+}, {
+  "name": "Erika Fille Legara",
+  "position": "Scientist",
+  "company": "A*STAR, Singapore",
+  "bio": "Erika is a scientist from the Complex Systems Group of the Institute of High Performance Computing, A*STAR, Singapore. She obtained a Ph.D. in Physics from the University of the Philippines Diliman  in 2011, garnering the Most Outstanding Graduate Student Award and the Edgardo Gomez Excellence in Dissertation Award. Dr. Legara specializes in the study of complex systems—looking at cities, societies, economies, and financial markets. In general, Erika loves data, big and small; she enjoys building mathematical models and simulations to reconstruct hidden patterns in them. Aside from science, technology, and research, Erika is also passionate about music, travel, and travel photography.",
+  "image": "/static/images/speakers/erika-legara.png"
+}, {
+  "name": "Loveme Felicilda",
+  "position": "Data Researcher",
+  "company": "Savvysherpa Asia Inc.",
+  "bio": "Loveme Felicilda is a data researcher at Savvysherpa Asia Inc. Has been using Python for data analysis and machine learning since 2013. Currently working on Neural Networks for healthcare claims. Off work, she's an outdoor enthusiast and an adrenaline junkie.",
+  "image": "/static/images/speakers/loveme-felicilda.png"
+}, {
+  "name": "Rhez Albarracin",
+  "position": "Web Developer",
+  "company": "Asia Inspection",
+  "bio": "Rhez Albarracin is a web developer at Asia Inspection and is currently working with AngularJS. She’s been developing since 2012, with her work ranging from mobile app development to PHP. When she's not busy geeking around, she enjoys yoga, coffee and a movie.",
+  "image": "/static/images/speakers/rhez-albaracin.png"
+}]
